@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WeatherAppRetrofit2</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="created_by">Created by</string>
+    <string name="neon_rabbit">Neon_rabbit</string>
+    <string name="min_temp">Min temp</string>
+    <string name="max_temp">Max temp</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="forecast_for_5_days">Forecast for 5 Days</string>
+    <string name="location">Location</string>
+    <string name="update_at">Update at</string>
+    <string name="celsius">24℃</string>
+    <string name="updateAt">"Updated at: "</string>
+    <string name="maxTemp">"Max temp: "</string>
+    <string name="minTemp">"Min temp: "</string>
+    <string name="date">Date</string>
+    <string name="descriptions">Description</string>
+    <string name="empty_message">This place is not in my database</string>
+    <string name="urlMessageStratIcon">http://openweathermap.org/img/wn/</string>
+    <string name="urlMessageEndIcon">\@2x.png</string>
+    <string name="timePattern">hh:mm a</string>
+    <string name="timeDatePattern">dd/MM/yyyy hh:mm a</string>
+</resources>
+
